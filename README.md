@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Topuz</h1>
 <h3 align="center">My interests are web development, web design and algorithms.</h3>
 
-- 🌱 I’m currently learning **JavaScript and CSS**.
+- 🌱 I’m currently learning **JavaScript, React.js and CSS**.
 
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 
