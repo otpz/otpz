@@ -15,9 +15,6 @@ I’m currently learning JavaScript, ReactJS and NodeJS.<br>Ask me about JavaScr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otpz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otpz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=otpz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
