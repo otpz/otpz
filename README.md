@@ -9,6 +9,7 @@ I’m currently learning JavaScript, ReactJS and NodeJS.<br>Reach me osmantopuz9
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-topuz-988104218/) 
 
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -24,6 +25,7 @@ I’m currently learning JavaScript, ReactJS and NodeJS.<br>Reach me osmantopuz9
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=otpz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
