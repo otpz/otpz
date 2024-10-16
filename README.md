@@ -2,7 +2,7 @@
 <h3 align="center">My interests are web development, web design and algorithms.</h3>
 
 # 💫 About Me:
-I’m currently learning JavaScript, ReactJS and NodeJS.<br>Reach me osmantopuz98@gmail.com
+I’m currently learning NextJS
 
 
 ## 🌐 Socials:
